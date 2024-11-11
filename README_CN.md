@@ -11,11 +11,12 @@
 # 到目前为止，已有![访客计数](https://profile-counter.glitch.me/HP-L/count.svg) 次访问
 
 ### 你可以从此大概了解我：
-- 🌱 目前正在东北大学（沈阳）学习
-- 💻 我的博客:[姓王者的博客](https://HP-L.github.io)
-- 📫 如何联系我: HP-L@outlook.com
-- 🔭 我的理想追求: 计算机图形学、计算机科学、游戏制作
+- 🌱 可以叫我子书（小站名字），也可以叫我 Phosphine /ˈfɒsfiːn/（上学时给起的代号磷化氢，英文翻译过来就是 Phosphine）
+- 💻 我的博客:[子书承宇](https://HP-L.github.io)
+- 📫 如何联系我: 1696634068@qq.com
+- 🔭 我的爱好: DIY硬件、系统玩家、音游
 
+<!--
 ### 我的技能集
 <table><tr><td valign="top" width="32%">
 
@@ -30,6 +31,7 @@
 
 </td>
 <td valign="top" width="32%">
+
   
 #### 计划学习
 <div align="center">  
@@ -46,3 +48,5 @@
 ### 成就记录
 
 [![Ashutosh的GitHub活动图表](https://github-readme-activity-graph.vercel.app/graph?username=HP-L&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+-->

@@ -8,12 +8,12 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-# 到目前为止，已有![访客计数](https://profile-counter.glitch.me/xingwangzhe/count.svg) 次访问
+# 到目前为止，已有![访客计数](https://profile-counter.glitch.me/HP-L/count.svg) 次访问
 
 ### 你可以从此大概了解我：
 - 🌱 目前正在东北大学（沈阳）学习
-- 💻 我的博客:[姓王者的博客](https://xingwangzhe.github.io)
-- 📫 如何联系我: xingwangzhe@outlook.com
+- 💻 我的博客:[姓王者的博客](https://HP-L.github.io)
+- 📫 如何联系我: HP-L@outlook.com
 - 🔭 我的理想追求: 计算机图形学、计算机科学、游戏制作
 
 ### 我的技能集
@@ -39,10 +39,10 @@
 <td valign="top" width="32%">
 
 #### 使用的语言
-![使用语言排名](https://github-readme-stats.vercel.app/api/top-langs/?username=xingwangzhe&layout=compact)
+![使用语言排名](https://github-readme-stats.vercel.app/api/top-langs/?username=HP-L&layout=compact)
 
 </td></tr></table>   
  
 ### 成就记录
 
-[![Ashutosh的GitHub活动图表](https://github-readme-activity-graph.vercel.app/graph?username=xingwangzhe&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh的GitHub活动图表](https://github-readme-activity-graph.vercel.app/graph?username=HP-L&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)

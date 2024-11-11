@@ -1,22 +1,22 @@
 English | [中文](./README_CN.md)
 <!-- snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xingwangzhe/xingwangzhe/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/xingwangzhe/xingwangzhe/blob/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HP-L/zishu/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/HP-L/zishu/blob/output/github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=emm...;Hello+World+!&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
 
-# Up to now, there have been ![Visitor Count](https://profile-counter.glitch.me/xingwangzhe/count.svg) visits
+# Up to now, there have been ![Visitor Count](https://profile-counter.glitch.me/HP-L/count.svg) visits
 
 ### Here are some ideas to get you started:
-- 🌱 I’m currently studying at Northeastern University(China)
-- 💻 My Blog (not update often):[姓王者的博客](https://xingwangzhe.github.io)
-- 📫 How to reach me: xingwangzhe@outlook.com
-- 🔭 My ideal pursuit: Computer Graphics Computer Science Game Production
+- 🌱 I’m Phosphine
+- 💻 My Blog (not update often):[子书承宇](https://HP-L.github.io)
+- 📫 How to reach me: 1696634068@qq.com
+- 🔭 My hobbies: DIY hardware, system player, music game
 
-
+<!--
 
 ### My Skill Set  
 <table><tr><td valign="top" width="32%">
@@ -42,10 +42,11 @@ English | [中文](./README_CN.md)
 <td valign="top" width="32%">
 
 #### Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xingwangzhe&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HP-L&layout=compact)
 
 </tr></td></table>
 
 ### Record
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xingwangzhe&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HP-L&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
